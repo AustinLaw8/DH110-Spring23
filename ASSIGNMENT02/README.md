@@ -14,6 +14,7 @@ Specifically, I wanted to test how easy it is for a new user to do many of the c
 [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdoz3fVlFlKLdh9Yd9VLxbYPnooPUT-BOWrKMT_Gduj96KGWw/viewform)
 
 ### Video
+(Click to watch)
 [![Link to video recording](../ASSIGNMENT01/img/watchparty/watchpartyhome.png)](https://drive.google.com/file/d/1SQTmG-WG0dmKiz3IxEJhBc-cYJ0cXnsJ/view?usp=sharing)
 
 ### Conclusion
@@ -21,6 +22,6 @@ In general, I was surprised about how the usability test went. My participant di
 
 I also feel because of our personal relationship, I could have been more professional in general; however, I feel like this did not ultimately interfere with the usability test at all.
 
-Also, I definitely think I could have prepared more for the test itself, especially since I feel that many unexpected things occurred (wasn't sure the best way to fill out the survey and conduct the test at the same time, wasn't sure if some tasks could be considered completed given the way they were completed: if the participant does a task with an unintended method, is it still complete?).
+Also, I definitely think I could have prepared more for the test itself, especially since I feel that many unexpected things occurred. More specifically, I did not expect some things to be as hard as they were even though I knew they would happen. For example, I wasn't sure the best way to fill out the survey and conduct the test at the same time, so I opted to do the survey on my mobile device while my participant used the site on my computer. I also wasn't sure if some tasks could be considered completed given the way they were completed; if the participant does a task with an unintended method, is it still considered complete? I decided that yes, they should be considered complete, but I think in my survey I should have included a section for extra comments and nuance to be able to say that the participant did not use the intended method.
 
 Finally, retrospectively, I feel as if I missed some parts of the website I would have like to test with my participant, but didn't think about it during the making of the UT materials.
