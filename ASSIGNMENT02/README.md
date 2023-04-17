@@ -14,8 +14,10 @@ Specifically, I wanted to test how easy it is for a new user to do many of the c
 [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdoz3fVlFlKLdh9Yd9VLxbYPnooPUT-BOWrKMT_Gduj96KGWw/viewform)
 
 ### Video
-(Click to watch)
-[![Link to video recording](../ASSIGNMENT01/img/watchparty/watchpartyhome.png)](https://drive.google.com/file/d/1SQTmG-WG0dmKiz3IxEJhBc-cYJ0cXnsJ/view?usp=sharing)
+
+[Link to video recording](https://drive.google.com/file/d/1SQTmG-WG0dmKiz3IxEJhBc-cYJ0cXnsJ/view?usp=sharing)
+
+<a href="https://drive.google.com/file/d/1SQTmG-WG0dmKiz3IxEJhBc-cYJ0cXnsJ/view?usp=sharing"><img src="../ASSIGNMENT01/img/watchparty/watchpartyhome.png" alt="Video thumbnail"></a>
 
 ### Conclusion
 In general, I was surprised about how the usability test went. My participant did struggle with the parts I thought she would, but specifically, I thought it was very interesting that she searched for completely alternative and unexpected routes to solve the task. I struggled briefly as the moderator in this sense, as I obviously didn't want to tell her the intended method but I also wanted to her to keep trying at the task. However, she did not really struggle with any other parts of the test, as I generally expected.
