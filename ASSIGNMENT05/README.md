@@ -41,7 +41,7 @@ Second Task:
 ![Second Task Confused](./img/second_task_confused.png)
 ![Second Task Confused 2](./img/second_task_confused2.png)
 
-In the second task, my user showed a lot of confusion; he did not realize that the same button he used earlier to "Start Watching" was the same button that needed to be pressed to navigate to the browser. Also, once he reached the browser with the video, he was confused on how to actually share this video (he mentioned that he expected a button that might say something like "start streaming").
+In the second task, my user showed a lot of confusion; he did not realize that the same button he used earlier to "Start Watching" was the same button that needed to be pressed to navigate to the browser. Also, once he reached the browser with the video, he was confused on how to actually share this video (he mentioned that he expected a button that might say something like "start streaming"). Ultimately, I would consider this task a failure, as he commented that he originally thought that my intended process was not the right way to complete the task.
 
 ### Reflection
 
