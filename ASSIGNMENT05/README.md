@@ -2,13 +2,22 @@
 
 ## Low Fidelity Prototype
 
+The purpose of this low fidelity prototyping is to get a sense of the initial design of the app, and ways this initial design can be improved and expanded upon. During the user research, I created two personas and two tasks: a middle aged mother persona who wants to connect with her kids, and a busy college student looking to spend his free time with his busy college friends.
+
+In this prototype testing, I primarily tested against the persona of the busy college student, as my participant is exactly that. To test my prototype, I asked them to complete two tasks:
+
+1. Join a room (Alice's room) and start watching a YouTube video.
+2. Afterwards, imagine you and your friends finish the YouTube video, and want to watch something on a completely different site. Set up the watchparty for a video on a different site.
+
+These follow from the persona's I created earlier: the middle-aged mother wants to watch a TV show on a popular website, and the college student wants to watch a video on a more random website.
+
 ### Wireframes and Wireflows
 
 [![Figma Wireframe](./img/figma_wireframe.png)](https://www.figma.com/file/Sc5EDN0jb6a26bUP6QSwTl/Low-Fidelity-Wireframe?type=design&node-id=0%3A1&t=F329HJHruI3xZAMn-1)
 
 ### Tasks
 
-The two tasks I asked my participant to complete were as follows:
+Reiterating the two tasks I asked my participant to complete:
 
 1. Join a room (Alice's room) and start watching a YouTube video.
 2. Afterwards, imagine you and your friends finish the YouTube video, and want to watch something on a completely different site. Set up the watchparty for a video on a different site.
