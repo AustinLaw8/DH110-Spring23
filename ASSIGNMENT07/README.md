@@ -20,8 +20,6 @@ My project is a watch party app, allowing users to video call and watch videos t
 
 ### Interactive Prototype
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FTRpSUOUu8gyGXevypSxyMN%2FInterface-Design%3Ftype%3Ddesign%26node-id%3D123-299%26scaling%3Dscale-down%26page-id%3D123%253A90%26starting-point-node-id%3D123%253A299" allowfullscreen></iframe>
-
 If embed doesn't work, use the link [here](https://www.figma.com/proto/TRpSUOUu8gyGXevypSxyMN/Interface-Design?type=design&node-id=123-299&scaling=scale-down&page-id=123%3A90&starting-point-node-id=123%3A299).
 
 ### Cognitive Walkthrough
