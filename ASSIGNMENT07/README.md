@@ -29,15 +29,19 @@ For my cognitive walkthrough, I asked my tester to conduct each supported task a
 - Watch a Youtube video, and then watch a video in the browser.
 
 > Q: First impressions?
+> 
 > A: "I think looks pretty clean, the Join and Create buttons are obvious, and the rooms as well. It's obvious that Alice's room has four people."
 
 > Q: For your first task, can you join Alice's room and (make as if) you are inviting a friend.
+> 
 > Tester managed to immediately finish this task; found the "invite" button very easily.
 
 > Q: So this app is supposed to help you do watchparties with your friends. Lets say you and your friends want to watch a Youtube video. Can you start watching a Youtube video?
+> 
 > Tester briefly took a moment to find the "Start Watching" button; after this, they managed to quickly finish the rest of this task (followed the rest of the buttons easily).
 
 > Q: Now let's say you finished the Youtube video, or you want to watch a video on the Internet. Try to search a video to watch.
+> 
 > Tester struggled to figure out how to switch from Youtube -> Browser (they did not realize that they had to press the same button as before, and tried pressing the back button).
 > Once they managed to navigate to the "Video Selected: Browser" frame, they struggled again to get to the next step and actually share the video.
 
