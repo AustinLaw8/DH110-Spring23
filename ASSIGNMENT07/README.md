@@ -20,7 +20,7 @@ My project is a watch party app, allowing users to video call and watch videos t
 
 ### Interactive Prototype
 
-If embed doesn't work, use the link [here](https://www.figma.com/proto/TRpSUOUu8gyGXevypSxyMN/Interface-Design?type=design&node-id=123-299&scaling=scale-down&page-id=123%3A90&starting-point-node-id=123%3A299).
+To see the interactive prototype, use the link [here](https://www.figma.com/proto/TRpSUOUu8gyGXevypSxyMN/Interface-Design?type=design&node-id=123-299&scaling=scale-down&page-id=123%3A90&starting-point-node-id=123%3A299).
 
 ### Cognitive Walkthrough
 
