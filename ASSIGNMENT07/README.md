@@ -61,3 +61,6 @@ Some of the changes I made in past versions include:
     - Based on my previous testing, I thought that the plus sign wasn't fully obvious, so I added the person icon as well.
 - Moved around the "share" button in the "Video Selected: Browser" frame.
     - This specifically has been a repeated issue, in which it isn't obvious what how to share a video from the browser once it was selected. I experimented with a few options as I designed the app, included having a Share button within the video and having a Share Video footer.
+
+[Image](https://www.figma.com/file/TRpSUOUu8gyGXevypSxyMN/Interface-Design?type=design&node-id=174%3A218&t=47Ak3Fz2nEXFDnXX-1) of changes:
+[![Changes](./img/changes.png)](https://www.figma.com/file/TRpSUOUu8gyGXevypSxyMN/Interface-Design?type=design&node-id=174%3A218&t=47Ak3Fz2nEXFDnXX-1)
