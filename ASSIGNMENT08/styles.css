@@ -1,26 +1,41 @@
 @font-face {
     font-family: 'Open Sans', sans-serif;
-    src: url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+    font-family: 'Dancing Script', cursive;
+    src: url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Open+Sans&display=swap');
 }
 
 /**
  * Primary color: #e3bdf0
  * Background color: #faf5ff
+ * Subtext: #565656
  */
 
 body {
     margin: 0;
+    margin-bottom: 10px;
     font-family: 'Open Sans', sans-serif;
     background-color: #faf5ff;
 }
 
 .header {
     background-color: #e3bdf0;
-    margin: 0;
+    padding: 10px;
+    text-align: center;
 
     > h1 {
-        font-size: 96px;
-        display: inline;
+        font-size: 144px;
+        font-family: 'Dancing Script', cursive;
+        margin: 0;
+    }
+
+    > .subtitle {
+        font-size: 36px;
+        margin: 0;
+        font-family: 'Dancing Script', cursive;
+    }
+
+    > .author {
+        color: #565656;
     }
 }
 
