@@ -3,11 +3,56 @@
     src: url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 }
 
+/**
+ * Primary color: #e3bdf0
+ * Background color: #faf5ff
+ */
+
 body {
+    margin: 0;
     font-family: 'Open Sans', sans-serif;
+    background-color: #faf5ff;
 }
 
-h1 {
-    font-size: 96px;
-    display: inline;
+.header {
+    background-color: #e3bdf0;
+    margin: 0;
+
+    > h1 {
+        font-size: 96px;
+        display: inline;
+    }
 }
+
+.container {
+    display: grid;
+    grid-template-columns: [space1] 25% [main] 50% [space2] 25%;
+
+    
+    > .main-content {
+        grid-column-start: main;
+        grid-column-end: space2;
+
+        .image {
+            display: flex;
+
+            > img {
+                display: block;
+                width: 45%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            > iframe {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+
+        > h2, h3 {
+            text-align: center;
+        }
+    }
+}
+
