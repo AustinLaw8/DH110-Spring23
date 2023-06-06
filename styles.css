@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    src: url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Open+Sans&display=swap');
+}
+
+/**
+ * Primary color: #e3bdf0
+ * Background color: #faf5ff
+ * Subtext: #565656
+ */
+
+body {
+    margin: 0;
+    margin-bottom: 10px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #faf5ff;
+}
+
+.header {
+    background-color: #e3bdf0;
+    padding: 10px;
+    text-align: center;
+
+    > h1 {
+        font-size: 144px;
+        font-family: 'Dancing Script', cursive;
+        margin: 0;
+    }
+
+    > .subtitle {
+        font-size: 36px;
+        margin: 0;
+        font-family: 'Dancing Script', cursive;
+    }
+
+    > .author {
+        color: #565656;
+    }
+}
+
+.container {
+    display: grid;
+    grid-template-columns: [space1] 25% [main] 50% [space2] 25%;
+
+    
+    > .main-content {
+        grid-column-start: main;
+        grid-column-end: space2;
+
+        .image {
+            display: flex;
+
+            > img {
+                display: block;
+                width: 45%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            > iframe {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+
+        > h2, h3 {
+            text-align: center;
+        }
+    }
+}
+
